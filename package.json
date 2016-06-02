@@ -1,0 +1,21 @@
+{
+    "name": "firewatch",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "Alex Bardanov <dnbard@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:dnbard/brackets-firewatch.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.0.0"
+    },
+    "theme": {
+        "file": "theme.css",
+        "dark": true
+    },
+    "title": "Firewatch",
+    "description": "Dark theme that is based on color scheme from Firewatch game."
+}
